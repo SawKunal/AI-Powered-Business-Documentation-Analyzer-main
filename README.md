@@ -1,4 +1,4 @@
-# 📄 AI-Powered Business Documentation Analyzer Main
+# 📄 AI-Powered Business Documentation Analyzer
 
 ## Table of Contents
 
